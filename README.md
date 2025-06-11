@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Weather Application
 
 A full-stack weather app using Node.js, Express, React, and OpenWeatherMap API.
@@ -27,3 +28,6 @@ cd client
 npm install
 npm start
 ```
+=======
+# wheatherApp
+>>>>>>> 75193420b5df972b2da9e100dc3ff6c6a1ba2066
